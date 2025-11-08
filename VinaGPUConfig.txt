@@ -8,6 +8,3 @@ size_y = 10
 size_z = 10
 thread = 8000
 
-
-
-
